@@ -1,0 +1,8 @@
+Hidden whispers:
+1. Attached was wall.jpg.gz file as an attachment
+2. Extract the file with gunzip wall.jpg.gz
+3. Run command to bruteforce password:
+stegcracker wall.jpg /usr/share/wordlists/rockyou.txt
+4. Password found: 123456
+5. Run it and it downloads another file named wall.jpg.out
+flag{E4SY_ST3G_UNL0CK3D}
