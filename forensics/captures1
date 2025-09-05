@@ -1,0 +1,9 @@
+CAPTURES1:
+Given was a pcap file, analysed different protocols and found a morse code pattern inside ICMP traffic:
+..-. .-.. .- --. - ...-- .-.. ...-- --. .-. ....- -- ..-. - .--
+
+Translating it, i got the flag:
+FLAGT3L3GR4MFTW 
+
+-> flag{t3l3gr4m_ftw}
+
