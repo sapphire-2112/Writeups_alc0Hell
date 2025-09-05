@@ -1,0 +1,5 @@
+x^2+y^2=5
+It had a long string with combination of []]][+[]]]+[[]+[][+[]]][+[]][++[[]][+[]]]+[[]+[][+[]]][+[]][++[++[[]][+[]]][+[]]]....
+Which reminded me of JSFUCK
+I used gpt and it gave me the exact flag:
+flag{You_are_a_1337_d3c0d3r}
